@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="InfoMangementSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfoMangementSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="InfoMangementSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib (2)" />
+          <element id="library" level="module" name="JUnit5.2" module-name="InfoMangementSystem" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="InfoMangementSystem/web/Web3" />
+      <element id="javaee-facet-resources" facet="InfoMangementSystem/web/Web4" />
+      <element id="javaee-facet-resources" facet="InfoMangementSystem/web/Web" />
+      <element id="javaee-facet-resources" facet="InfoMangementSystem/web/Web2" />
+      <element id="javaee-facet-resources" facet="InfoMangementSystem/web/Web5" />
+    </root>
+  </artifact>
+</component>
